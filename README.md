@@ -20,7 +20,7 @@ Maybe there are other errors related to the failure
 
 #### 每周任务
 ---
-[week1 task](./weekly%20task/week1/, "week1 task")
+[week1 task](./weekly%20task/week1 "week1 task")
 
 #### 补充
 
