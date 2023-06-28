@@ -29,7 +29,7 @@ Maybe there are other errors related to the failure
 &ensp;&ensp;上面笔记里面两处不太清晰，因为当时记录的时候内容比较长，我没想好怎么概括。   
    
 &ensp;&ensp;①record features: cost, priority, events ......
-&ensp;&ensp;这里是在我们收集了错误之后，要记录一些错误的特征，建表分析。我觉得这个应该类似论文**Simple Testing Can Prevent Most Critical Failures**提供的数据库**https://www.eecg.toronto.edu/failureAnalysis/index.html**。
+&ensp;&ensp;这里是在我们收集了错误之后，要记录一些错误的特征，建表分析。我觉得这个应该类似论文**Simple Testing Can Prevent Most Critical Failures**提供的数据库 **https://www.eecg.toronto.edu/failureAnalysis/index.html** 。
 &ensp;&ensp;在他提供的数据库中，每个模块都提供了一个记录错误特征的表格，内容和yongle讲的很类似，我们觉得我们初期就对照这个表格收集的特征来进行建表即可。
 ![Alt text](./READMEpics/image-1.png)
 ![Alt text](./READMEpics/image-2.png)
